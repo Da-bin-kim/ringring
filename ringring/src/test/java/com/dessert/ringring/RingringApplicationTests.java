@@ -8,6 +8,7 @@ class RingringApplicationTests {
 
 	@Test
 	void contextLoads() {
+		
 	}
 
 }

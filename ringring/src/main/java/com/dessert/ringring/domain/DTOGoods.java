@@ -1,7 +1,9 @@
 package com.dessert.ringring.domain;
 
-import lombok.Data;
+import org.springframework.stereotype.Component;
 
+import lombok.Data;
+@Component
 @Data
 public class DTOGoods {
 	private int idx;
@@ -12,7 +14,8 @@ public class DTOGoods {
 	private String shortDetail;
 	private String detail;
 	private String weight;
-	
+	private String category1;
+	private String category2;
 	
 
 }

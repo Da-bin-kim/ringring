@@ -1,0 +1,347 @@
+@charset "utf-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&family=Noto+Sans+KR:wght@300;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+
+/* 폰트 위계 */
+
+/*font-family: 'Noto Sans KR', sans-serif;
+font-family: 'Montserrat', sans-serif; */
+
+
+*{
+    padding: 0;
+    margin: 0;
+}
+.tt{
+    font-family: 'Noto Sans KR', sans-serif;
+}
+input{
+    border: 0;
+    outline: 0;
+}
+button{
+    border: 0;
+    outline: 0;
+}
+/* header========================= */
+
+#header{
+    width: 100%;
+    /* height: 150px; */
+    height: 220px;
+}
+#header_inner{
+    width: 1000px;
+    /* height: 150px; */
+    margin: 0 auto;
+    /* background-color: lavender; */
+}
+/* ===========usr============== */
+.usr_menu{
+    width: 100%;
+    height: 20px;
+    padding: 10px 0 30px;
+}
+.usr_menu ul{
+    float: right;
+}
+.usr_menu ul li{
+    float: left;
+    list-style: none;
+    margin-left: 15px;
+    font-size: 14px;
+}
+.usr_menu ul li a:link,a:visited,a:hover{
+    text-decoration: none;
+    color: rgb(60, 60, 60);
+}
+.usr_menu::after{
+    content: '';
+    clear: both;
+    display: block;
+}
+/* ===========logo=============== */
+.logo{
+    margin: 0 auto;
+    width: 260px;
+    height: 90px;
+    text-indent: -999em;
+    background-image: url(../image/ringring_ver1.png);
+    /* background-repeat: no-repeat; */
+    background-position: center center;
+    background-size: cover;
+}
+/* =============gnbMenu============= */
+.gnbMenu{
+    height: 40px;
+    padding: 20px 0 10px;
+}
+.gnb{
+    height: 40px; 
+}
+.gnbMenu .gnb li{
+    float: left;
+    list-style: none;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 20px; 
+    padding: 10px 59px 0px;
+    text-align: center;
+}
+.gnbMenu .gnb li:last-child{
+    padding:0 50px;
+}
+.gnbMenu .gnb li a{
+    text-decoration: none;
+}
+.gnbMenu .gnb li a{
+    color:#df404a;
+}
+/*========== cookie =========== */
+.cookie{
+    float: left;
+    overflow: hidden;
+}
+.cookie .cookie_sub{
+   display: none;
+   position: absolute;
+   background-color: #f9f9f9;
+   z-index: 1;
+}
+.cookie .cookie_sub a{
+    float: none;
+    color: rgb(60, 60, 60);
+    text-decoration: none;
+    padding: 5px 0;
+    display: block;
+    text-align: left;
+}
+.cookie_sub a:hover{
+    background-color: #ddd;
+    color: rgb(60, 60, 60);
+}
+.cookie:hover .cookie_sub {
+    display: block;
+}
+/* ============ bread ============*/
+.bread{
+    float: left;
+    overflow: hidden;
+}
+.bread .bread_sub{
+   display: none;
+   position: absolute;
+   background-color: #f9f9f9;
+   z-index: 1;
+}
+.bread .bread_sub a{
+    float: none;
+    color: rgb(60, 60, 60);
+    text-decoration: none;
+    padding: 5px 0;
+    display: block;
+    text-align: left;
+}
+.bread_sub a:hover{
+    background-color: #ddd;
+    color: rgb(60, 60, 60);
+}
+.bread:hover .bread_sub {
+    display: block;
+}
+/* =========drink================ */
+.drink{
+    float: left;
+    overflow: hidden;
+}
+.drink .drink_sub{
+   display: none;
+   position: absolute;
+   background-color: #f9f9f9;
+   z-index: 1;
+}
+.drink .drink_sub a{
+    float: none;
+    color: rgb(60, 60, 60);
+    text-decoration: none;
+    padding: 5px 0;
+    display: block;
+    text-align: left;
+}
+.drink_sub a:hover{
+    background-color: #ddd;
+    color: rgb(60, 60, 60);
+}
+.drink:hover .drink_sub {
+    display: block;
+}
+/* =========search-container=========== */
+.search-container{
+    position: relative;
+}
+.search-container input{
+    border-radius: 80px;
+    padding: 10px 20px; 
+    background-color: rgba(161, 161, 161, .1);
+}
+.search-container button{
+    position: absolute;
+    right: 50px;
+    border-radius: 50%;
+    padding: 10px;
+    background-color: rgba(161, 161, 161, .0);
+}
+/* =============banner=========== */
+#banner{
+    width: 100%;
+    height: 350px;
+    background-color: pink; 
+}
+.bs-slider img{
+    width: 100%;
+    height: 350px;
+    background-position: center;
+}
+.bx-wrapper{
+    position: relative;
+    box-shadow: none;
+    border: none;
+    margin-bottom: 0;
+}
+.bx-wrapper .bx-pager{
+    position: absolute;
+    bottom: 10px;
+}
+/* ===============container=================== */
+#container{
+    width: 100%;
+}
+#container_inner{
+    width: 1000px;
+    margin: 0 auto;
+}
+.newfood h2{
+    text-align: center;
+    padding: 60px 0 40px;
+    font-size: 35px;
+    font-family: 'Montserrat', sans-serif;
+}
+.new_list li{
+    float: left;
+    padding-left: 40px;
+}
+.new_list li:last-child{
+    padding-right: 0;
+}
+.new_list img{
+    width: 200px;
+    height: 300px;
+}
+.new_list li h3{
+    font-size: 20px;
+    padding: 10px 0; 
+}
+.new_list li p{
+    font-size: 18px;
+}
+.new_list::after{
+    content: '';
+    clear: both;
+    display: block;
+}
+.new2{
+    padding: 20px 0;
+}
+/* =========status============== */
+.status{
+    background-color: #df404a;
+    width: 100%;
+    height: 2px;
+    display: block;
+    /* display: inline-block; */
+}
+/* =============footer============== */
+#footer{
+    width: 100%;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+.footer_inner{
+    width: 1000px;
+    margin: 0 auto;
+    background-color:white;
+    display: flex;
+}
+.footer_left{
+    padding: 20px 0;
+    flex: 1;
+}
+.footer_left h1{
+    font-size: 20px;
+    padding-bottom: 15px;
+}
+.footer_left .call_tt{
+    font-size: 20px;
+}
+.footer_left .qna_tt p{
+    font-size: 20px;
+    text-align: center;
+}
+.footer_left .center{
+    padding-left: 10px;
+    color: rgb(60, 60, 60);
+}
+.footer_left .center p{
+    color: rgb(161, 161, 161);
+    padding-top: 5px;
+    font-weight: 300;
+}
+.footer_left .sns{
+    padding-top: 30px;
+}
+.footer_left .sns li{
+    float: left;
+    font-size: 20px;
+    padding: 10px;
+    border: 2px solid  #df404a;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+.footer_left .sns .fa-facebook{
+    padding: 1px 3px;
+}
+.footer_left .sns::after{
+    display: block;
+    content: '';
+    clear: both;
+}
+.footer_right{
+    flex: 1;
+    padding: 20px 0;
+}
+.footer_right ul li{
+    float: left;
+    padding-right: 25px;
+}
+.footer_right ul::after{
+    clear: both;
+    content: '';
+    display: block;
+}
+.footer_right .company{
+    padding-top: 25px;
+    font-size: 13px;
+    line-height: 18px; /* 줄 간격 */
+    color: rgb(60, 60, 60);
+}
+.footer_right .company .bar{
+    padding: 0 4px 0;
+    color: rgb(161, 161, 161);
+}
+.footer_right .copyright{
+    font-size: 10px;
+    padding-top: 15px;
+    color: rgb(60, 60, 60);
+}

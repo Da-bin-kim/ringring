@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="89030725-9518-408c-a3cc-886c8176fe03" name="Default Changelist" comment="졸리다">
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ringring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main/com/dessert/ringring/config/MailHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main/com/dessert/ringring/config/TemKey.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main/com/dessert/ringring/controller1/JoinController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main/com/dessert/ringring/controller1/homeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main/com/dessert/ringring/service/MemberRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main/com/dessert/ringring/service/ServiceGoodsImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main/com/dessert/ringring/service/ServiceMemberImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main/mybatis/GoodsMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main/mybatis/MemberMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main/static/css/join.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main/static/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main/static/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main/static/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main/static/image/RingRing_logo.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main/static/image/banner1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main/static/image/banner2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main/static/image/banner3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main/static/image/content1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main/static/image/content2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main/static/image/content3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main/static/image/content4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main/static/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/META-INF/spring-configuration-metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/dessert/ringring/RingringApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/dessert/ringring/config/DBConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/dessert/ringring/controller1/JoinController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/dessert/ringring/controller1/LoginController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/dessert/ringring/controller1/homeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/dessert/ringring/domain/DTOBoard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/dessert/ringring/domain/DTOCart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/dessert/ringring/domain/DTOCoupon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/dessert/ringring/domain/DTOGoods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/dessert/ringring/domain/DTOMember.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/dessert/ringring/domain/DTOOrderSheet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/dessert/ringring/domain/DTOPerAsk.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/dessert/ringring/domain/DTOPoint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/dessert/ringring/domain/DTOProductSheet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/dessert/ringring/domain/DTOReview.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/dessert/ringring/mapper/BoardMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/dessert/ringring/mapper/CartMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/dessert/ringring/mapper/CouponMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/dessert/ringring/mapper/GoodsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/dessert/ringring/mapper/MemberMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/dessert/ringring/mapper/OrderSheetMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/dessert/ringring/mapper/PerAskMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/dessert/ringring/mapper/PointMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/dessert/ringring/mapper/ProductSheetMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/dessert/ringring/mapper/ReviewMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/dessert/ringring/service/MemberRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/dessert/ringring/service/ServiceBoard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/dessert/ringring/service/ServiceCart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/dessert/ringring/service/ServiceCoupon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/dessert/ringring/service/ServiceGoods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/dessert/ringring/service/ServiceMember.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/dessert/ringring/service/ServiceMemberImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/dessert/ringring/service/ServiceOrderSheet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/dessert/ringring/service/ServicePerAsk.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/dessert/ringring/service/ServicePoint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/dessert/ringring/service/ServiceProductSheet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/dessert/ringring/service/ServiceReview.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/com/dessert/ringring/RingringApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/com/dessert/ringring/db/DBConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/com.dessert.ringring.db.DBConfig.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.dessert.ringring.db.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/mybatis/MemberMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/static/css/join.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/static/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/static/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/static/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/static/image/RingRing_logo.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/static/image/banner1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/static/image/banner2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/static/image/banner3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/static/image/content1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/static/image/content2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/static/image/content3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/static/image/content4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/static/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/TEST-com.dessert.ringring.db.DBConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dessert/ringring/config/MailHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dessert/ringring/config/TemKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dessert/ringring/controller1/JoinController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dessert/ringring/controller1/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dessert/ringring/controller1/homeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dessert/ringring/security/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dessert/ringring/service/MemberRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dessert/ringring/service/ServiceGoodsImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dessert/ringring/service/ServiceMemberImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis/GoodsMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis/MemberMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/join.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/RingRing_logo.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/banner1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/banner2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/banner3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/content1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/content2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/content3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/content4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/cmMain.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/goods/goodsDetail.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/goods/listGoods.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/join/join.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/join/verify.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/mainForm.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/redirect.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/sidebar.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/dessert/ringring/RingringApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/com/dessert/ringring/RingringApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/dessert/ringring/RingringApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/dessert/ringring/config/DBConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/com/dessert/ringring/config/DBConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/dessert/ringring/controller1/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/com/dessert/ringring/controller1/LoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/dessert/ringring/db/DBConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/dessert/ringring/domain/DTOBoard.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/com/dessert/ringring/domain/DTOBoard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/dessert/ringring/domain/DTOCart.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/com/dessert/ringring/domain/DTOCart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/dessert/ringring/domain/DTOCoupon.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/com/dessert/ringring/domain/DTOCoupon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/dessert/ringring/domain/DTOGoods.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/com/dessert/ringring/domain/DTOGoods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/dessert/ringring/domain/DTOMember.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/com/dessert/ringring/domain/DTOMember.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/dessert/ringring/domain/DTOOrderSheet.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/com/dessert/ringring/domain/DTOOrderSheet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/dessert/ringring/domain/DTOPerAsk.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/com/dessert/ringring/domain/DTOPerAsk.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/dessert/ringring/domain/DTOPoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/com/dessert/ringring/domain/DTOPoint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/dessert/ringring/domain/DTOProductSheet.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/com/dessert/ringring/domain/DTOProductSheet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/dessert/ringring/domain/DTOReview.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/com/dessert/ringring/domain/DTOReview.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/dessert/ringring/mapper/BoardMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/com/dessert/ringring/mapper/BoardMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/dessert/ringring/mapper/CartMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/com/dessert/ringring/mapper/CartMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/dessert/ringring/mapper/CouponMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/com/dessert/ringring/mapper/CouponMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/dessert/ringring/mapper/GoodsMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/com/dessert/ringring/mapper/GoodsMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/dessert/ringring/mapper/MemberMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/com/dessert/ringring/mapper/MemberMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/dessert/ringring/mapper/OrderSheetMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/com/dessert/ringring/mapper/OrderSheetMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/dessert/ringring/mapper/PerAskMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/com/dessert/ringring/mapper/PerAskMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/dessert/ringring/mapper/PointMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/com/dessert/ringring/mapper/PointMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/dessert/ringring/mapper/ProductSheetMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/com/dessert/ringring/mapper/ProductSheetMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/dessert/ringring/mapper/ReviewMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/com/dessert/ringring/mapper/ReviewMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/dessert/ringring/service/ServiceBoard.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/com/dessert/ringring/service/ServiceBoard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/dessert/ringring/service/ServiceCart.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/com/dessert/ringring/service/ServiceCart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/dessert/ringring/service/ServiceCoupon.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/com/dessert/ringring/service/ServiceCoupon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/dessert/ringring/service/ServiceGoods.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/com/dessert/ringring/service/ServiceGoods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/dessert/ringring/service/ServiceMember.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/com/dessert/ringring/service/ServiceMember.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/dessert/ringring/service/ServiceOrderSheet.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/com/dessert/ringring/service/ServiceOrderSheet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/dessert/ringring/service/ServicePerAsk.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/com/dessert/ringring/service/ServicePerAsk.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/dessert/ringring/service/ServicePoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/com/dessert/ringring/service/ServicePoint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/dessert/ringring/service/ServiceProductSheet.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/com/dessert/ringring/service/ServiceProductSheet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/dessert/ringring/service/ServiceReview.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/com/dessert/ringring/service/ServiceReview.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/test/com/dessert/ringring/RingringApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/test/com/dessert/ringring/RingringApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/test/com/dessert/ringring/db/DBConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/test/com/dessert/ringring/db/DBConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dessert/ringring/config/DBConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dessert/ringring/config/DBConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dessert/ringring/controller1/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dessert/ringring/controller1/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dessert/ringring/domain/DTOGoods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dessert/ringring/domain/DTOGoods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dessert/ringring/domain/DTOMember.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dessert/ringring/domain/DTOMember.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dessert/ringring/mapper/BoardMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dessert/ringring/mapper/BoardMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dessert/ringring/mapper/CartMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dessert/ringring/mapper/CartMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dessert/ringring/mapper/GoodsMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dessert/ringring/mapper/GoodsMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dessert/ringring/mapper/MemberMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dessert/ringring/mapper/MemberMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dessert/ringring/service/ServiceCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dessert/ringring/service/ServiceCart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dessert/ringring/service/ServiceGoods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dessert/ringring/service/ServiceGoods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dessert/ringring/service/ServiceMember.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dessert/ringring/service/ServiceMember.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/dessert/ringring/RingringApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/dessert/ringring/RingringApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/dessert/ringring/db/DBConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/dessert/ringring/db/DBConfig.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="spring-beans.schema" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Pull.Settings">
+    <option name="BRANCH" value="mina" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="main" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="Da-bin-kim" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="ringring" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.31\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nWpju7CcYOkorzjoCA9ZlGzPLx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JSP" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\minaring\Desktop\RingRing\ringring\src\main\webapp\WEB-INF\views\product" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.RingringApplication">
+    <configuration name="DBConfig.listGoods" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.dessert.ringring.db.DBConfig.listGoods&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="RingringApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ringring.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dessert.ringring.RingringApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.DBConfig.listGoods" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89030725-9518-408c-a3cc-886c8176fe03" name="Default Changelist" comment="" />
+      <created>1611515841767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611515841767</updated>
+      <workItem from="1611515843251" duration="764000" />
+      <workItem from="1612227530842" duration="902000" />
+      <workItem from="1612228553214" duration="412000" />
+      <workItem from="1612229190921" duration="17238000" />
+      <workItem from="1612364137715" duration="14056000" />
+      <workItem from="1612715032709" duration="4176000" />
+      <workItem from="1612949046350" duration="6956000" />
+      <workItem from="1613527150218" duration="2735000" />
+      <workItem from="1613641980869" duration="448000" />
+      <workItem from="1613645205903" duration="29898000" />
+      <workItem from="1614338325126" duration="3251000" />
+      <workItem from="1614431437848" duration="2717000" />
+      <workItem from="1614518383683" duration="3598000" />
+      <workItem from="1614522602123" duration="400000" />
+      <workItem from="1614523124195" duration="992000" />
+      <workItem from="1614781415440" duration="47000" />
+      <workItem from="1614870668017" duration="1267000" />
+    </task>
+    <task id="LOCAL-00001" summary="호냥냥">
+      <created>1612232266659</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612232266659</updated>
+    </task>
+    <task id="LOCAL-00002" summary="호냥냥">
+      <created>1612232748193</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612232748193</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="왜 오류가 뜨지" />
+    <MESSAGE value="호냥냥" />
+    <option name="LAST_COMMIT_MESSAGE" value="호냥냥" />
+  </component>
+</project>

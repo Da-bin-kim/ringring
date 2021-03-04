@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.dessert.ringring.mapper.GoodsMapper">
+<insert id="insertGoods" parameterType="com.dessert.ringring.domain.DTOGoods" useGeneratedKeys="true" keyProperty="idx">
+	insert into product 
+		(name, price, stock, img, short_detail, detail, weight, category1, category2)
+		values 
+		(#{name}, #{price}, #{stock}, IFNULL(#{img}, NULL) , IFNULL(#{shortDetail}, NULL), IFNULL(#{detail}, NULL)
+		, #{weight}, #{category1}, #{category2})
+</insert>
+
+<select id="getInfoGoods" parameterType="com.dessert.ringring.domain.DTOMember">
+	SELECT * FROM USER WHERE idx=#{idx}
+</select>
+<select id="listGoods" parameterType="com.dessert.ringring.domain.DTOMember">
+	SELECT * FROM USER WHERE category=#{category1} AND category2=#{category2}
+</select>
+
+<update id="updateGoods" parameterType="com.dessert.ringring.domain.DTOMember"></update>
+<delete id="deleteGoods" parameterType="com.dessert.ringring.domain.DTOMember">
+	DELETE FROM USER WHERE idx=#{idx}
+</delete>
+</mapper>
